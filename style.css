@@ -20,12 +20,12 @@
      * colors
      */
   
-    --selective-yellow: hsl(42, 94%, 55%);
+    --selective-yellow: hsl(201, 100%, 50%);
     --eerie-black-1: hsl(0, 0%, 9%);
     --eerie-black-2: hsl(180, 3%, 7%);
-    --quick-silver: hsl(0, 0%, 65%);
-    --radical-red: hsl(351, 83%, 61%);
-    --light-gray: hsl(0, 0%, 80%);
+    --quick-silver: hsl(0, 0%, 42%);
+    --radical-red: hsl(110, 100%, 50%);
+    --light-gray: hsl(0, 1%, 37%);
     --isabelline: hsl(36, 33%, 94%);
     --gray-x-11: hsl(0, 0%, 73%);
     --kappel_15: hsla(170, 75%, 41%, 0.15);
@@ -35,7 +35,7 @@
     --white_50: hsla(0, 0%, 100%, 0.5);
     --black_50: hsla(0, 0%, 0%, 0.5);
     --black_30: hsla(0, 0%, 0%, 0.3);
-    --kappel: hsl(170, 75%, 41%);
+    --kappel: hsl(48, 100%, 51%);
     --white: hsl(0, 0%, 100%);
   
     /**
